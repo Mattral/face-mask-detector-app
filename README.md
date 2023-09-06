@@ -4,7 +4,7 @@
 
 ### The Problem
 
-The worldwide COVID-19 pandemic has led to the widespread wearing of face masks to protect ourselves and others from spreading the disease. It is particularly important that these be worn when close contact cannot be avoided, and when inside of buildings. My goal is to create an object detection model that can identify whether a person is wearing a mask correctly, incorrectly, or not at all. Here, "correctly" is defined as covering the nose and mouth. This model can be used with both still photos as well as live video feeds.
+The worldwide COVID-19 pandemic has led to the widespread wearing of face masks to protect ourselves and others from spreading the disease. It is particularly important that these be worn when close contact cannot be avoided, and when inside of buildings. My goal is to create an object detection model that can identify whether a person is wearing a mask correctly, incorrectly, or not at all. Here, "correctly" is defined as covering the nose and mouth. This model can be used with both still photos as well as live video feeds
 
 ### Data
 
